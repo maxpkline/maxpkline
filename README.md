@@ -1,21 +1,21 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F72FDB&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile!%F0%9F%91%8B;Passionate+Developer+💻+|+Lifelong+Learner+🌱+|+Problem+Solver+🙋" alt="Typing SVG" /></a>
 
-# About Me
+# ⭐ About Me
 ### Thanks for stopping by! My name is Maxwell Kline, and I am currently a senior at the University of Nebraska-Lincoln studying Computer Science and Plant Biology🌱  Here are some fun bits of information about me:
 
 - 🔭 I’m currently working on **Redesigning the Nebraska PBS NextGen TV Station**
 - 🎮 In my free time, I have been creating a **Jeopardy! style trivia game**
 - 🌱 I’m currently learning **Genetic Engineering** and **Deep Learning**
-- 🎯 My goals include **Becoming a Jeopardy! Champion someday**
+- 🎯 My personal goals include **Becoming a Jeopardy! Champion someday**
 ---
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=maxpkline&show_icons=true&theme=radical" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=maxpkline&show_icons=true&hide=stars,prs&theme=tokyonight&border_color=c9a5f5&border_radius=10" alt="GitHub Stats">
     </td>
     <td>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Quote">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&border=true" alt="Quote">
     </td>
   </tr>
 </table>
@@ -37,7 +37,7 @@
 
 ---
 
-## 📂 Testing and Collaboration
+## Testing and Collaboration
 <div align="center"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/ZenHub-4973E3?style=flat&logo=zenhub&logoColor=white" alt="ZenHub" /> <img src="https://img.shields.io/badge/Git_Bash-4EAA25?style=flat&logo=git&logoColor=white" alt="Git Bash" /> </div>
 
 ---
@@ -46,14 +46,23 @@
 <div align="center"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/WebStorm-000000?style=flat&logo=webstorm&logoColor=white" alt="WebStorm" /> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white" alt="Eclipse" /> </div>
 
 ---
+# 👓 See some of my work!
+## NPM NextGen TV Station
+[![GIF preview](assets/NPMVC.gif)](https://www.youtube.com/watch?v=isH_L5fn5ZU)
 
+
+## Jeopardy! Game
+[![GIF preview](assets/Jeopardy.gif)]
+
+## Weather application
+---
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maxpkline&theme=github)
 <!--
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maxpkline&theme=github)
 -->
 
-# Fun Facts about me! 😊  
+# 😊 Fun Facts about me!  
 <details>
   <summary>Click to find something interesting!</summary>
   
@@ -66,6 +75,10 @@
   
 ![Code Lover](https://img.shields.io/badge/-Code_Lover-%23D00000?logo=readthedocs&logoColor=white)
 ![Coffee Lover](https://img.shields.io/badge/-Coffee_Lover-6F4E37?logo=buymeacoffee&logoColor=white)
+![Night Owl](https://img.shields.io/badge/-Night_Owl-222831?logo=tripadvisor&logoColor=white)
+![Gardening Enthusiast](https://img.shields.io/badge/-Gardening_Enthusiast-34A853?logo=leaflet&logoColor=white)
+![Lifelong Learner](https://img.shields.io/badge/-Lifelong_Learner-0052CC?logo=googlescholar&logoColor=white)
+![Cooking Enthusiast](https://img.shields.io/badge/-Cooking_Enthusiast-FF6347?logo=chef&logoColor=white)
 </details>
 
 ---
