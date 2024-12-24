@@ -47,14 +47,16 @@
 
 ---
 # 👓 See some of my work!
+- You can click on each gif to see more about the projects below
 ## NPM NextGen TV Station
 [![GIF preview](assets/NPMVC.gif)](https://www.youtube.com/watch?v=isH_L5fn5ZU)
 
 
 ## Jeopardy! Game
-[![GIF preview](assets/Jeopardy.gif)]
+![GIF preview](assets/Jeopardy.gif)
 
 ## Weather application
+- need to add gif/repo for the weather application
 ---
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maxpkline&theme=github)
@@ -69,7 +71,7 @@
 - In my free time, I am an avid 3D printer, mainly FDM and not resin. It is fun to make things from nothing!
 - I am honored to be called an Eagle Scout, which has taught me countless lessons in survival as well as everyday life skills. 
 - Gardening is one of my favorite hobbies, and I love to grow exotic or unusual plants that may turn off others due to their high standards.
-- Deep learning is a relatively new topic I have been diving into, and have looked into creating am AI model to detect any diseases my plants could have. 
+- Deep learning is a relatively new topic I have been diving into, and have looked into creating an AI model to detect any diseases my plants could have. 
 - Cooking is another big passion of mine, before college I was stuck deciding between culinary school or computer science.
 - I absolutely love learning. Even in my free time I am always looking to improve my understanding, or for new skills to learn
   
