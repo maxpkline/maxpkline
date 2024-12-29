@@ -53,7 +53,7 @@
 
 
 ## Jeopardy! Game
-![GIF preview](assets/Jeopardy.gif)
+[![GIF preview](assets/Jeopardy.gif)](https://github.com/maxpkline/JeopardyGame)
 
 ## Weather application
 - need to add gif/repo for the weather application
