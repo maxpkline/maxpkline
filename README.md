@@ -49,7 +49,7 @@
 # 👓 See some of my work!
 - You can click on each gif to see more about the projects below
 ## NPM NextGen TV Station
-[![GIF preview](assets/NPMVC.gif)](https://www.youtube.com/watch?v=isH_L5fn5ZU)
+[![GIF preview](assets/NPMVC.gif)]()
 
 
 ## Jeopardy! Game
