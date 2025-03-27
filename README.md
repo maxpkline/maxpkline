@@ -4,7 +4,7 @@
 ### Thanks for stopping by! My name is Maxwell Kline, and I am currently a senior at the University of Nebraska-Lincoln studying Computer Science and Plant Biology🌱  Here are some fun bits of information about me:
 
 - 🔭 I’m currently working on **Redesigning the Nebraska PBS NextGen TV Station**
-- 🎮 In my free time, I have been creating a **Jeopardy! style trivia game**
+- 🎮 In my free time, I have been creating a **Universal Garden Planning Application**
 - 🌱 I’m currently learning **Genetic Engineering** and **Deep Learning**
 - 🎯 My personal goals include **Becoming a Jeopardy! Champion someday**
 ---
@@ -55,8 +55,8 @@
 ## Jeopardy! Game
 [![GIF preview](assets/Jeopardy.gif)](https://github.com/maxpkline/JeopardyGame)
 
-## Weather application
-- need to add gif/repo for the weather application
+## Planted Garden Application
+- Repo will be available soon upon completion of initial garden designer
 ---
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=maxpkline&theme=github)
@@ -91,6 +91,7 @@
 - LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourusername)
 - Personal Website: [Your Website](https://yourwebsite.com)
 -->
+- LinkedIn: [Maxwell Kline](www.linkedin.com/in/max-kline-779852269)
 - Email: [maxpkline@gmail.com](mailto:maxpkline@gmail.com)
 ---
 
