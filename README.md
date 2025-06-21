@@ -4,7 +4,7 @@
 ### Thanks for stopping by! My name is Maxwell Kline, and I am currently a senior at the University of Nebraska-Lincoln studying Computer Science and Plant Biology🌱  Here are some fun bits of information about me:
 
 - 🔭 I’m currently working on **Redesigning the Nebraska PBS NextGen TV Station**
-- 🎮 In my free time, I have been creating a **Universal Garden Planning Application**
+- 🎮 In my free time, I have been creating a **[Universal Gardening Application](www.myplantedgarden.com)**
 - 🌱 I’m currently learning **Genetic Engineering** and **Deep Learning**
 - 🎯 My personal goals include **Becoming a Jeopardy! Champion someday**
 ---
